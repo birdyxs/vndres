@@ -15,7 +15,7 @@ body {
     font-size: 12px;
     color: #2e2e2e;
     background-color: #fafafa;
-  background-image:url(https://i.ibb.co/kHYvJJc/eri2.png);
+  background-image:url(assets/eri2.png);
     background-size:cover;
     text-align: left;
     line-height: 160%;
@@ -243,7 +243,7 @@ img.sicon{
 .s_img{
     height:250px;
     border-radius:10px;
-    background-image:url(https://i.ibb.co/qgDZtND/eriii.png);
+    background-image:url(assets/eriii.png);
     background-size:cover;
     position:relative;
     z-index:-10;
